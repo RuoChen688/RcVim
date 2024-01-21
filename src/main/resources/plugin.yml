@@ -1,0 +1,5 @@
+name: RcVim
+main: RcVim.Main
+version: 1.0.0
+author: RuoChen
+api: 1.0.0
